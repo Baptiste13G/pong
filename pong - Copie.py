@@ -7,7 +7,7 @@
 import pygame
 import random 
 
-"je test encore une fois"
+"test une fois de plus"
 
 print("Pygame fonctionne !")
 
