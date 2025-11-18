@@ -3,7 +3,7 @@
 -les collisions
 -système de points
 -interface (nombre de points etc.)"""
-
+"test"
 
 import pygame
 import random 
